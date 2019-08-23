@@ -8,4 +8,5 @@
 /.purs*
 /.psa*
 package-lock.json
-
+server/*.hi
+server/*.o

@@ -1,0 +1,2 @@
+web: binaries/main
+
