@@ -1,2 +1,1 @@
-web: binaries/main
-
+web: purescriptcowboy-exe
