@@ -10,3 +10,8 @@
 package-lock.json
 server/*.hi
 server/*.o
+
+/.stack-work/
+/client/bower_components/
+/client/node_modules/
+
